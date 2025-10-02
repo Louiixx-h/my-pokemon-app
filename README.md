@@ -1,6 +1,6 @@
 # My Pokemon App
 
-### Lib
+### Libraries
 - Retrofit (serve para fazer chamadas em API)
 - Coroutine (Serve para trabalhar com processamento "paralelo")
 - Gson (serve para converter json em classe)
